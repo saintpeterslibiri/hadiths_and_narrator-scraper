@@ -13,7 +13,7 @@ with open('hadis.csv', mode='w', newline='', encoding='utf-8') as hadiths_file:
     writer = csv.writer(hadiths_file, quoting=csv.QUOTE_ALL)
     writer.writerow(['ID', 'Arabic', 'Turkish', 'Books', 'Topics', 'Chain'])  # Write header
     
-    for page_number in range(1, 5):  # Adjust the range as needed
+    for page_number in range(1, 11):  # Adjust the range as needed
         url = base_url + str(page_number)
         # Fetching Webpage content
         response = requests.get(url)
@@ -36,9 +36,9 @@ with open('hadis.csv', mode='w', newline='', encoding='utf-8') as hadiths_file:
         # Debugging: Check the length of both lists
         print(f'Page {page_number} - Arabic Hadiths: {len(hadiths_arabic)}, Turkish Hadiths: {len(turkish_content)}')
         
-        for index, arabic in enumerate(hadiths_arabic, start=1):
+        for index, hadith in enumerate(hadiths_arabic, start=1):
             # Arabic text
-            arabic_text = arabic.get_text(separator=' ', strip=True).replace('\n', ' ').replace('\r', ' ')
+            arabic_text = hadith.get_text(separator=' ', strip=True).replace('\n', ' ').replace('\r', ' ')
             arabic_text = ' '.join(arabic_text.split())  # Remove excessive whitespace
             
             # Turkish text

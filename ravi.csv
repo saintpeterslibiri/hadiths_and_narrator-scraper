@@ -1,41 +1,74 @@
-"ID","Name","Birth Year","Death Year","Places Lived","Degree","Reliability"
-"1","Ebu Muhammed Süfyan b. Uyeyne el-HilâlîSüfyân b. Uyeyne b. Meymûn","107","198","Kufe, Mekke, Yemen","Etbau'-TabiînSika, hafı…","Sika, hafı…"
-"2","Ebu Bekir el-Humeydî Abdullah b. ZübeyrAbdullah b. Zübeyr b. İsa b. Ubeydullah","-","219","Mekke, Mısır","DiğerSika, Faki…","Sika, Faki…"
-"3","Ebu Said Yahyâ b. Saîd el-EnsârîYahyâ b. Saîd b. Kays b. Amr","-","143","Bağdat, Enbar, Medine, Tunus","Etbau'-Tabiînsika,  seb…","sika,  seb…"
-"4","Ebu Abdullah Muhammed b. İbrahim et-Teymî el-KuraşîMuhammed b. İbrahim b. Hâris b. Hâlid","45","120","Medine","TabiînSika","Sika"
-"5","Ebu Yahya Alkame b. Vakkas el-UtvârîAlkame b. Vakkâs b. Mihsan b. Kelede","-","86","Medine","Tabiînsika,  seb…","sika,  seb…"
-"6","Ebu Hafs Ömer b. Hattab el-AdevîÖmer b. Hattab b. Nüfeyl b. Abdüluzza","-","23","Medine, Mekke, Şam","SahabîSahabi","Sahabi"
-"8","Ebu Abdullah Malik b. Enes el-EsbahîMalik b. Enes b. Malik b. Ebu Amir","93","179","Medine","TabiînRa'sü'l-mü…","Ra'sü'l-mü…"
-"9","Ebu Münzir Hişam b. Urve el-EsedîHişam b. Urve b. Zübeyr b. Avvam","61","146","Kufe, Medine","TabiînSika, İmam…","Sika, İmam…"
-"10","Urve b. Zübeyr el-EsedîUrve b. Zübeyr b. Avvam b. Huveylid b. Esed","23","94","Dımeşk, Medine, Mekke, Mısır","TabiînSika, Faki…","Sika, Faki…"
-"11","Ümmü Abdullah Aişe bt. Ebu Bekir es-SıddîkAişe bt. Abdullah b. Osman b. Âmir","-","57","Medine, Mekke","SahabîSika, Faki…","Sika, Faki…"
-"12","Yahya b. Bükeyr el-KuraşîYahya b. Abdullah b. Bükeyr","154","231","Mısır, Şam","TabiînSika","Sika"
-"13","Ebu Haris Leys b. Sa'd el-FehmîLeys b. Sa'd b. Abdurrahman","94","175","Mısır","TabiînSika, Sebt…","Sika, Sebt…"
-"14","Ebu Abdullah Utbe b. Gazvân el-MâzinîUtbe b. Gazvân b. Cabir b. Vehb b. Nüseyb","-","17","Basra, Habeşistan, Medine, Mekke","SahabîSahabi","Sahabi"
-"15","Ebu Seleme b. Abdurrahman ez-ZuhrîAbdullah b. Abdurrahman b. Avf b. Abduavf","22","94","Basra, Kufe, Medine","TabiînSika","Sika"
-"16","Cabir b. Abdullah el-EnsârîCabir b. Abdullah b. Amr b. Haram b. Salebe","-","78","Medine","SahabîAkabe asha…","Akabe asha…"
-"18","Ebu Salih Abdullah b. Salih el-CüheniAbdullah b. Salih b. Muhammed b. Müslim","137","222","Mısır","TabiînMakbul","Makbul"
-"19","Hilal b. ReddâdHilal b. Reddâd","-","-","","-Makbul","Makbul"
-"20","Ebu Hişam Abdullah b. Nümeyr el-HemdânîAbdullah b. Nümeyr b. Abdullah b. Ebu Hayye","115","199","Kufe","Etbau'-TabiînSika, sahi…","Sika, sahi…"
-"21","Ebu Seleme Musa b. İsmail et-TebûzekiMusa b. İsmail","-","223","Basra","TabiînSika, sebt","Sika, sebt"
-"22","Ebu Avane Vazzah b. Abdullah el-YeşkurîVazzah b. Abdullah","92","176","Basra, Vâsıt","TabiînSika, sebt","Sika, sebt"
-"23","Musa b. Ebu Aişe el-HemdânîMusa b. Ebu Aişe","-","-","Kufe","-Sika, yürs…","Sika, yürs…"
-"24","Ebu Abdullah Said b. Cübeyr el-EsedîSaid b. Cübeyr","46","95","Kufe, Mekke","TabiînSika, sebt","Sika, sebt"
-"25","İbn Abbas Abdullah b. Abbas el-KuraşîAbdullah b. Abbas b. Abdülmuttalib b. Haşim b. Abdümenaf","-","68","Basra, Medine, Taif","SahabîSahabi","Sahabi"
-"26","Ebu Abdurrahman Abdullah b. Osman el-AtekiAbdullah b. Osman b. Cebele b. Meymun","145","221","Merv","TabiînSika, Hafı…","Sika, Hafı…"
-"27","Ebu Abdurrahman Abdullah b. Mübarek el-HanzalîAbdullah b. Mübarek b. Vadıh","118","181","Basra, Horasan, Kufe, Merv, Mısır, Şam, Yemen","TabiînSika, Sebt…","Sika, Sebt…"
-"28","Yunus b. Yezid el-EyliYunus b. Yezid b. Mişkan","-","159","Eyle, Mısır","TabiînSika","Sika"
-"29","Ebu Bekir Muhammed b. Şihab ez-ZührîMuhammed b. Müslim b. Ubeydullah b. Abdullah b. Şihab","52","124","Medine, Şam","TabiînFakih, Haf…","Fakih, Haf…"
-"30","Bişr b. Muhammed es-SahtiyaniBişr b. Muhammed","-","224","","Etbau'-TabiînSaduk, Mür…","Saduk, Mür…"
-"31","Ebu Urve Mamer b. Raşid el-EzdîMamer b. Râşid","96","154","Basra, Yemen","Etbau'-TabiînSika, Sebt…","Sika, Sebt…"
-"32","Ebu Abdullah Ubeydullah b. Abdullah el-HüzeliUbeydullah b. Abdullah b. Utbe b. Mesud b. Gâfil","-","98","Medine","TabiînSika, Faki…","Sika, Faki…"
-"33","Ebu Yeman Hakem b. Nafi' el-BehrânîHakem b. Nafi'","138","221","Humus","DiğerSika Sebt","Sika Sebt"
-"34","Şuayb b. Ebu Hamza el-ÜmeviŞuayb b. Dinar","-","162","Humus, Şam","TabiînSika, Hafı…","Sika, Hafı…"
-"35","Ebu Süfyan b. Harb el-KuraşiSahr b. Harb b. Ümeyye b. Abdüşems b. Abdümenaf","-","32","Medine, Mekke","SahabîSahabi","Sahabi"
-"36","Ebu Muhammed Salih b. Keysan ed-DevsiSalih b. Keysan","-","145","Medine","TabiînSika","Sika"
-"37","Ubeydullah b. Musa el-AbsiUbeydullah b. Musa b. Bazam","-","213","Kufe","Etbau'-TabiînSika, Şii …","Sika, Şii …"
-"38","Hanzala b. Ebu Süfyan el-CümahiHanzala b. Esved b. Abdurrahman b. Safvan","-","151","Mekke","Etbau'-TabiînSika, Hücc…","Sika, Hücc…"
-"39","İkrime b. Halid el-Mahzumîİkrime b. Halid b. As b. Hişam b. Muğîra","-","-","Mekke","TabiînSika","Sika"
-"41","Amr b. Abbas el-BâhilîAmr b. Abbas","-","235","","-Sadukun","Sadukun"
-"42","Ebu Said Abdurrahman b. Mehdî el-AnberîAbdurrahman b. Mehdi b. Hassân b. Abdurrahman","135","198","Basra","Etbau'-TabiînSika, sebt…","Sika, sebt…"
-"44","Ebu Osman Rabî'a er-ReyRabî'a b. Ferrûh","-","136","Medine","TabiînSika","Sika"
+"ID","Name","Birth Year","Death Year","Places Lived","Degree","Reliability","Biography"
+"1","Ebu Muhammed Süfyan b. Uyeyne el-HilâlîSüfyân b. Uyeyne b. Meymûn","107","198","Kufe, Mekke, Yemen","Etbau'-TabiînSika, hafı…","Sika, hafı…","Biyografisi: Süfyan b. Uyeyne:
+Mekke'nin ileri gelen hadis alimlerinden olan Süfyan b. Uyeyne, 107/725 yılında Kufe'de doğdu. Atalarına nispeten İbn İmran b. Meynûn el-Kûfî ve Araplarla bir arada yaşaması nedeniyle de Ebu Muhammed künyesiyle tanındı. Babası Uyeyne, Emevîlerin Irak valisi Hâlid b. Abdullah el-Kasrî’nin çalışanlarından biriydi. Hâlid, Irak valiliğinden azledilince adamları dönemin yöneticileri tarafından takibe alındı. Bundan dolayı Uyeyne, ailesini yanına alarak Mekke'ye gitti ve oraya yerleşti. Arap asıllı olmayan babası burada tutunabilmek için Benî Hilâl b. Âmir b. Saʻsaʻa’dan Benî Abdullah b. Rüveybe ile anlaşarak onun mevlâsı oldu. Mekke'ye geliş tarihleri kaynaklarda yer almasa da Süfyan'ın, 116 yılında hacca gitmesi ve erken yaşta buradaki alimlerden ders alması nedeniyle on yaşına basmadan Mekke'ye gitmiş olabileceği düşünülmektedir.
+Babasının aksine siyasetle ilgilenmeyen Süfyan, Mekke ulemasının ve buraya ziyarete gelen ilim ehlinin sohbetlerine katılmaktan keyif alırdı. 4 yaşında Kur'an okumaya ve 7  yaşında hadis yazmaya 
+başladı. Bir çok ünlü alimden hadis dinledi. 15 yaşında iken Abdülkerîm b. Ümeyye'nin sohbetlerine katıldı. Çok sağlam bir hafızaya sahipti. Hadisleri yazmanın yanında onları açıklama ve yorumlama yetilerine sahip olduğundan hadis ilmine ağırlık verdi. 19 ve 20 yaşlarında iken, Amr b. Dinar'dan hadis dinledi. Sonrasında Ziyad b. Alaka, el-Esved b. Kays, Ubeydullah b. Yezid, İbn Şihab ez-Zührî, Ebu İshak es-Sebi'î, Abdullah b. Dinar, Zeyd b. Eslem, Abdülmelik b. Umeyr gibi seksenden fazla alimden hadis dersleri aldı. Hocaları genel olarak Mekkeli olsa da, Irak'taki hadislere de vakıf idi.
+
+Süfyan, Hocalarından Zührî ve Amr b. Dinar'ın hadislerini en iyi bilenlerden birisiydi. 142/759 yılında otuz beş yaşında iken ders vermeye başladı. Ölünceye kadar da ders halkasını Mekke'de sürdürdü. 
+Âlî isnad sahibi olduğundan dersleri ilgiyle takip edilir ve kimi zaman bin kişilik katılımlar olurdu. Manen hadis rivayetinde de bulunurdu. Sika ravilerden tedlis yaptığı iddia edilse de, bu iddia literatürde çok karşılık bulmamıştır. Hatta sahih hadis konusunda uzmanlardan biri kabul edilmiştir.
+
+Hadis için çok kez rihle yapan Süfyan, 150 ve 152 yıllarında Yemen’e giderek Maʻmer'in sohbetlerine katıldı.
+
+Hicaz bölgesindeki en meşhur hadis bilginleri arasında yer alan Süfyan, hadis tasnif döneminde yaşamıştır. Bu nedenle hadisleri hıfz, rivayet, açıklama ve tasnifinde büyük hizmetleri olmuştur. İmam Şafiî, onu Hicaz bölgesinin hafızasını kurtaran kişi olarak nitelendirmiş ve onun sayesinde buradaki bilginin korunduğunu ifade etmiştir. Ahmed b. Hanbel de ondan daha iyi hadis bilen bir kimseyi görmediğini söylemiştir. Süfyan b. Uyeyne'nin öğrencileri arasında çok sayıda tanınmış İslam alimi bulunmaktadır. 
+Süfyan'ın Hadis ilmine önemli katkıları olmuştur. Hadislerin güvenilirliğini diğer bir ifade ile sıhhatini tespit edebilmek için katı bir metodoloji uygulamıştır.
+
+Ömrünü bu ilim yolunda geçiren Süfyan, Mekke şehrinde ikamet etmenin sağladığı avantajla defalarca haccetme imkanı buldu ve toplamda 79 defa haccetti. Hiç evlenmediği ve zamanla gözünün bir tanesinin görme yeteneğini kaybettiği rivayet bildirilmiştir. Vefatından bir yıl önce 197/813'te ihtilata uğradı ve son haccından dönerken 198 yılının Receb ayının ilk gününde Cumartesi günü 91 yaşında iken vefat etti ve el-Hacûn’a defnedildi. 
+
+Süfyân, sika, hafız, müfessir, kârî, fakih, abid, zahid, kesretü'l-hadis ve hüccet olarak vasf edilmiştir.Kaynak 1# İlk Üç Asırda İslam Coğrayasında Hadis, ,  /73Kaynak 2# Kitabü't-Tabakâti'l-kebîr, , 1642 6/14Kaynak 3# Tehzîbü’l-esmâʾ ve’l-luġāt, , 1 1/224"
+"2","Ebu Bekir el-Humeydî Abdullah b. ZübeyrAbdullah b. Zübeyr b. İsa b. Ubeydullah","-","219","Mekke, Mısır","DiğerSika, Faki…","Sika, Faki…","Notlar: Buharî'nin hocasıdırKaynak 1# el-Cerh ve’t-taʿdîl, ,  5/56Kaynak 2# İlk Üç Asırda İslam Coğrayasında Hadis, ,  /76-77Kaynak 3# Kitabü't-Tabakâti'l-kebîr, , 1655 6/44"
+"3","Ebu Said Yahyâ b. Saîd el-EnsârîYahyâ b. Saîd b. Kays b. Amr","-","143","Bağdat, Enbar, Medine, Tunus","Etbau'-Tabiînsika,  seb…","sika,  seb…","Notlar: Medine ve Mekke'de kâdılık yapmıştır.Kaynak 1# Kitabü't-Tabakâti'l-kebîr, , 1239 5/423Kaynak 2# Siyerü A'lami'n-Nübela, Cabir b. Abdullah el-Ensarî,  5/468"
+"4","Ebu Abdullah Muhammed b. İbrahim et-Teymî el-KuraşîMuhammed b. İbrahim b. Hâris b. Hâlid","45","120","Medine","TabiînSika","Sika","Kaynak 1# es-Sikât, ,  5/381Kaynak 2# Kitabü't-Tabakâti'l-kebîr, , 998 5/324Kaynak 3# Nesep Atlası, ,  /4Kaynak 4# Tarihu'l Kebir, Cabir b. Abdullah b. Amr b. Harâm b. Sa'lebe,  1/234"
+"5","Ebu Yahya Alkame b. Vakkas el-UtvârîAlkame b. Vakkâs b. Mihsan b. Kelede","-","86","Medine","Tabiînsika,  seb…","sika,  seb…","Kaynak 1# Kitabü't-Tabakâti'l-kebîr, , 632 5/44Kaynak 2# Tezkiretü’l-huffâz, ,  1/43Kaynak 3# Üsdü’l-ğâbe fi ma’rifeti’s-sâhâbe, ,  4/85"
+"6","Ebu Hafs Ömer b. Hattab el-AdevîÖmer b. Hattab b. Nüfeyl b. Abdüluzza","-","23","Medine, Mekke, Şam","SahabîSahabi","Sahabi","Biyografisi: Ömer b. Hattab:
+Kureyş kabilesinin Adîoğullarına mensup olan Ömer b. Hattab, Hz. Peygamber'den on üç yıl kadar sonra Mekke'de dünyaya geldi. Genç yaşta deve çobanlığı yapmaya başladı. Bu esnada güreşe ve biniciliğe merak saldı. Daha sonra ticarete yöneldi ve Mekke'nin en zenginlerinden biri oldu. Yaz aylarında Şam'a ve kış aylarında Yemen'e seyahat etti. Ticaretteki başarısı, kabiliyeti ve ailesinin Mekke'deki konumu sebebiyle kabilesinin asillerinden biri sayıldı ve Daru'n-Nedve'ye dahil olarak elçilik görevini yürüttü. Başlangıçta cahiliye kültürünün etkisinde kalarak İslam dinini kabul etmediği gibi muhalifler arasında yer alsa da peygamberliğin 6. yılında Müslüman oldu. Onun İslâmiyet’e girmesinden sonra Müslümanlar ilk defa Kâbe’de toplu olarak namaz kıldılar.
+Müslüman olduktan sonra Hz. Peygamber'in yanından hiç ayrılmamaya çalıştı. Aklı, feraseti ve açık sözlülüğü ile kısa sürede İslam dininde önemli bir mertebeye yerleşti. Hicret vakti yakınlarıyla birlikte Medine'ye göç etti ve Kuba'da yaşamaya başladı. 
+
+Bedir, Uhud, Hendek, Mekke'nin Fethi ve daha birçok savaşa katıldı. Okuma yazma bildiği için vahiy katipliği görevini de üstlendi. Kızı Hafsa'nın Hz. Peygamber ile yaptığı izdivaçla onun kayınpederi oldu. Hz. Peygamber'in vefatıyla Benî Saide Sakifesindeki toplantıya katılarak Hz. Ebu Bekir'in halife seçilmesinde etkin rol oynadı.Hz. Ebu Bekir'in vefatının ardından, 23 Ağustos 634'te, Halifeliği devraldı ve adaletiyle ün saldı. 
+
+Hicri takvimin kurucusu olan Hz. Ömer döneminde, İslam Devleti'nin sınırları genişleyerek Irak, Mısır, Libya, Şam, Fars, Horasan, Doğu Anadolu ve Ermenistan'ın güneyini içine alan sahaya ulaştı. Aynı zamanda, Kudüs'ü ilk kez Müslüman yönetimi altına aldı. Böylece İslam Devleti, Sasani İmparatorluğu'nun tüm topraklarını ve Bizans İmparatorluğu'nun üçte ikisini kapsayacak şekilde genişledi. 
+
+Hz. Ömer, Kur'an'ın cem edilmesinde etkin rol oynadığı gibi, halifeliği döneminde hadisleri yazıya geçirmeyi de düşündü; ancak gündemin henüz bu iş için hazır olmadığını fark ettiğinden düşüncesinden vazgeçti. Hadis konusunda oldukça titiz davrandı ve Hz. Peygamber'e isnad edilen bir söz duyduğunda doğruluğunu tespit için, rivayet eden tarafından ispatlanmasını şart koştu. Hz. Peygamber'e yalan söz isnad edilmesini engellemek için ciddi gayret sarf eden Hz. Ömer, İslam'ın erken dönemlerine ilişkin hadis rivayetleriyle de bilinir. 
+
+Sahabe olarak, Hz. Muhammed'in yaşadığı dönemde onunla birlikte bulunup birçok olaya tanıklık etse de Hz. Ömer'in az miktarda hadis rivayetine sahip olduğu bilinir. Bu rivayetler de genellikle  sorulan soruları ve Hz. Muhammed'in (sav) verdiği cevapları içerir. Kütüb-i sitte'de 539 rivayeti bulunur ve rivayet ettiği bazı hadisler öğütleri, hukuki konuları ve İslam'ın temel prensipleriyle ilgili konuları içerir. Bu hadislerin çoğu, diğer sahabiler tarafından da rivayet edilmiştir. Dolayısıyla farklı isnadlara sahiptir. Bir rivayetin ya da  meselenin Hz. Ömer, tarafından rivayete konu edilmiş olması önemsenmektedir. 
+
+Uzun boylu, gür sesli, heybetli ve vakur duruşuyla tarif edilen Hz. Ömer, birçok defa evlilik yaptı. İlk evliliğini Zeynep bt. Maz'un ile gerçekleştirdi ve bu evlilikten Abdullah, Abdurrahman ile Hafsa dünyaya geldiler. Cahiliye döneminde evlendiği Müleyke ve Kureybe isimli kadınları Mümtehine suresi nazil olunca ayetteki emir gereği boşadı. Son evliliğini Hz. Ali'nin kızı Ümmü Gülsüm ile gerçekleştirdi. Ondan da Zeydü'l-Kebîr ve Rukiyye oldu. Mücadeleyle geçen bir hayatın sonunda Hz. Ömer, İran asıllı bir kölenin tertip ettiği süikast sonucu yaralanarak 23/644 yılında şehadete erişti. Cennetle müjdelenen on sahabeden biridir.Kaynak 1# Kitabü't-Tabakâti'l-kebîr, , 56 3/201"
+"8","Ebu Abdullah Malik b. Enes el-EsbahîMalik b. Enes b. Malik b. Ebu Amir","93","179","Medine","TabiînRa'sü'l-mü…","Ra'sü'l-mü…","Kaynak 1# İlk Üç Asırda İslam Coğrayasında Hadis, ,  /47-50Kaynak 2# Kitabü't-Tabakâti'l-kebîr, , 1367 5/465"
+"9","Ebu Münzir Hişam b. Urve el-EsedîHişam b. Urve b. Zübeyr b. Avvam","61","146","Kufe, Medine","TabiînSika, İmam…","Sika, İmam…","Notlar: müdellis, muhtelit.Kaynak 1# Kitabü't-Tabakâti'l-kebîr, , 1928 7/500"
+"10","Urve b. Zübeyr el-EsedîUrve b. Zübeyr b. Avvam b. Huveylid b. Esed","23","94","Dımeşk, Medine, Mekke, Mısır","TabiînSika, Faki…","Sika, Faki…","Notlar: Fakîh,
+Çok hadis rivayet etmiştir.
+Mecâh veya Mücâh, Mekke civarında bir yerdir. İbn Hişam, Mücâc olarak söylendiğini de belirtmiştir.Kaynak 1# İlk Üç Asırda İslam Coğrayasında Hadis, ,  /33Kaynak 2# Kitabü't-Tabakâti'l-kebîr, , 729 5/136Kaynak 3# Tabakâtü Halife b. Hayyât, ,  /420Kaynak 4# Vefeyâtü’l-aʿyân, ,  3/255"
+"11","Ümmü Abdullah Aişe bt. Ebu Bekir es-SıddîkAişe bt. Abdullah b. Osman b. Âmir","-","57","Medine, Mekke","SahabîSika, Faki…","Sika, Faki…","Kaynak 1# Kitabü't-Tabakâti'l-kebîr, , 3658 10/54"
+"12","Yahya b. Bükeyr el-KuraşîYahya b. Abdullah b. Bükeyr","154","231","Mısır, Şam","TabiînSika","Sika","Notlar: Leys İbn Sa'd'ın hadisi konusunda insanların ey iyisidir.Kaynak 1# el-Kemal fi Marifeti Esmai’r-Rical, ,  9/338Kaynak 2# es-Sikât, ,  9/262Kaynak 3# Siyerü A'lami'n-Nübela, Cabir b. Abdullah el-Ensarî,  10/613"
+"13","Ebu Haris Leys b. Sa'd el-FehmîLeys b. Sa'd b. Abdurrahman","94","175","Mısır","TabiînSika, Sebt…","Sika, Sebt…","Kaynak 1# İlk Üç Asırda İslam Coğrayasında Hadis, ,  /373Kaynak 2# Kitabü't-Tabakâti'l-kebîr, , 4072 7/358"
+"14","Ebu Abdullah Utbe b. Gazvân el-MâzinîUtbe b. Gazvân b. Cabir b. Vehb b. Nüseyb","-","17","Basra, Habeşistan, Medine, Mekke","SahabîSahabi","Sahabi","Kaynak 1# Kitabü't-Tabakâti'l-kebîr, , 52 3/107Kaynak 2# TABAKAT, , 3653 9/1"
+"15","Ebu Seleme b. Abdurrahman ez-ZuhrîAbdullah b. Abdurrahman b. Avf b. Abduavf","22","94","Basra, Kufe, Medine","TabiînSika","Sika","Kaynak 1# Kitabü't-Tabakâti'l-kebîr, , 1518 7/162"
+"16","Cabir b. Abdullah el-EnsârîCabir b. Abdullah b. Amr b. Haram b. Salebe","-","78","Medine","SahabîAkabe asha…","Akabe asha…","Kaynak 1# İlk Üç Asırda İslam Coğrayasında Hadis, ,  /32Kaynak 2# Kitabü't-Tabakâti'l-kebîr, , 354 4/257Kaynak 3# Siyerü A'lami'n-Nübela, Cabir b. Abdullah el-Ensarî, 38 3/189Kaynak 4# Tarihu'l Kebir, Cabir b. Abdullah b. Amr b. Harâm b. Sa'lebe, 2208 2/207"
+"18","Ebu Salih Abdullah b. Salih el-CüheniAbdullah b. Salih b. Muhammed b. Müslim","137","222","Mısır","TabiînMakbul","Makbul","Kaynak 1# Kitabü't-Tabakâti'l-kebîr, , 4908 9/52"
+"19","Hilal b. ReddâdHilal b. Reddâd","-","-","","-Makbul","Makbul","Kaynak 1#"
+"20","Ebu Hişam Abdullah b. Nümeyr el-HemdânîAbdullah b. Nümeyr b. Abdullah b. Ebu Hayye","115","199","Kufe","Etbau'-TabiînSika, sahi…","Sika, sahi…","Kaynak 1# Kitabü't-Tabakâti'l-kebîr, , 3553 8/512"
+"21","Ebu Seleme Musa b. İsmail et-TebûzekiMusa b. İsmail","-","223","Basra","TabiînSika, sebt","Sika, sebt","Kaynak 1# Kitabü't-Tabakâti'l-kebîr, , 4218 9/317"
+"22","Ebu Avane Vazzah b. Abdullah el-YeşkurîVazzah b. Abdullah","92","176","Basra, Vâsıt","TabiînSika, sebt","Sika, sebt","Kaynak 1# Kitabü't-Tabakâti'l-kebîr, , 4137 9/300"
+"23","Musa b. Ebu Aişe el-HemdânîMusa b. Ebu Aişe","-","-","Kufe","-Sika, yürs…","Sika, yürs…","Kaynak 1# Kitabü't-Tabakâti'l-kebîr, , 3291 8/445"
+"24","Ebu Abdullah Said b. Cübeyr el-EsedîSaid b. Cübeyr","46","95","Kufe, Mekke","TabiînSika, sebt","Sika, sebt","Kaynak 1# Kitabü't-Tabakâti'l-kebîr, , 3144 8/367"
+"25","İbn Abbas Abdullah b. Abbas el-KuraşîAbdullah b. Abbas b. Abdülmuttalib b. Haşim b. Abdümenaf","-","68","Basra, Medine, Taif","SahabîSahabi","Sahabi","Kaynak 1# İlk Üç Asırda İslam Coğrayasında Hadis, ,  /63-64Kaynak 2# Kitabü't-Tabakâti'l-kebîr, , 1367 6/320"
+"26","Ebu Abdurrahman Abdullah b. Osman el-AtekiAbdullah b. Osman b. Cebele b. Meymun","145","221","Merv","TabiînSika, Hafı…","Sika, Hafı…","Notlar: 76 yaşında vefat etmiştir.Kaynak 1# Kitabü't-Tabakâti'l-kebîr, , 4497 9/385"
+"27","Ebu Abdurrahman Abdullah b. Mübarek el-HanzalîAbdullah b. Mübarek b. Vadıh","118","181","Basra, Horasan, Kufe, Merv, Mısır, Şam, Yemen","TabiînSika, Sebt…","Sika, Sebt…","Kaynak 1# Kitabü't-Tabakâti'l-kebîr, , 4471 9/380"
+"28","Yunus b. Yezid el-EyliYunus b. Yezid b. Mişkan","-","159","Eyle, Mısır","TabiînSika","Sika","Kaynak 1# Kitabü't-Tabakâti'l-kebîr, , 4920 9/528"
+"29","Ebu Bekir Muhammed b. Şihab ez-ZührîMuhammed b. Müslim b. Ubeydullah b. Abdullah b. Şihab","52","124","Medine, Şam","TabiînFakih, Haf…","Fakih, Haf…","Notlar: İbn Sa'd'a göre 58 yılında doğmuştur.Kaynak 1# Kitabü't-Tabakâti'l-kebîr, , 1890 7/464"
+"30","Bişr b. Muhammed es-SahtiyaniBişr b. Muhammed","-","224","","Etbau'-TabiînSaduk, Mür…","Saduk, Mür…","Kaynak 1#"
+"31","Ebu Urve Mamer b. Raşid el-EzdîMamer b. Râşid","96","154","Basra, Yemen","Etbau'-TabiînSika, Sebt…","Sika, Sebt…","Notlar: 58 yaşında vefat etmiştir.Kaynak 1# Kitabü't-Tabakâti'l-kebîr, , 2594 8/92"
+"32","Ebu Abdullah Ubeydullah b. Abdullah el-HüzeliUbeydullah b. Abdullah b. Utbe b. Mesud b. Gâfil","-","98","Medine","TabiînSika, Faki…","Sika, Faki…","Notlar: Çok hadis rivayetinde bulunan âlim ve şair bir kimseydi.
+Vefat tarihi hususunda farklı tarihler de rivayet edilmiştir.Biyografisi: Ubeydullah, Zühreoğullarının anlaşmalıları olan Hüzeyl b. Müdrike’dendi. Dedesi Utbe, meşhur sahabi Abdullah b. Mes'ud'un kardeşidir ve sahabidir. Hz. Ömer'in hilafeti döneminden veya ondan kısa bir süre sonra Medine'de doğdu. Eğitimini doğup büyüdüğü Medine ulemasından aldı.
+Tabiîn'in ikinci tabakasında yer alan Ubeydullah, Medine'nin ileri gelen alimlerindendi. Hadis ve fıkıh alanında kendisini yetiştirdi.  Hatta Kureyş'in dört büyük fakihinden biri olduğu da söylenir. Ebû Hüreyre, İbn Abbâs, Âişe, Ebû Talha, Sehl b. Huneyf, Zeyd b. Hâlid ve Ebû Saʻîd el-Hudrî’den hadis rivayetinde bulundu. Dedesinin kardeşi olan İbn Mes'ud, vefat ettiği sırada çocuk yaşta olduğundan ondan nakil alamadı. Zührî, Sâlih b. Keysan, Ebü'z-Zinâd ve İbn Şübrüme gibi önemli isimlere hocalık yaptı. Rivayetlerinin bir kısmı Kütüb-i sitte içerisinde yer aldı. Sika ve fakih olup, çok hadis rivayetinde bulunan âlim ve şair bir kimseydi. Hadis alanındaki mahareti nedeniyle 'Me'mun' olarak nitelendirildi. Şiirleri Hassân b. Sâbit tarzına yakın ama dini içerikliydi. Bunların bir kısmı el-Eganî'de yer aldı. 
+
+Gözleri sonradan âma olan Ubeydullah, Medine’de 98 senesinde vefat etti.Kaynak 1# es-Sikât, , 797 5/193Kaynak 2# Kitabü't-Tabakâti'l-kebîr, ,  5/63"
+"33","Ebu Yeman Hakem b. Nafi' el-BehrânîHakem b. Nafi'","138","221","Humus","DiğerSika Sebt","Sika Sebt","Kaynak 1# Kitabü't-Tabakâti'l-kebîr, , 4761 9/478"
+"34","Şuayb b. Ebu Hamza el-ÜmeviŞuayb b. Dinar","-","162","Humus, Şam","TabiînSika, Hafı…","Sika, Hafı…","Notlar: İbn Şihab ez-Zühri'nin öğrencisiKaynak 1# Kitabü't-Tabakâti'l-kebîr, , 4746 9/474"
+"35","Ebu Süfyan b. Harb el-KuraşiSahr b. Harb b. Ümeyye b. Abdüşems b. Abdümenaf","-","32","Medine, Mekke","SahabîSahabi","Sahabi","Kaynak 1# Kitabü't-Tabakâti'l-kebîr, , 1027 6/1"
+"36","Ebu Muhammed Salih b. Keysan ed-DevsiSalih b. Keysan","-","145","Medine","TabiînSika","Sika","Notlar: Ömer İbn Abdülaziz'in çocuğunun hocasıKaynak 1# Kitabü't-Tabakâti'l-kebîr, , 2054 7/552"
+"37","Ubeydullah b. Musa el-AbsiUbeydullah b. Musa b. Bazam","-","213","Kufe","Etbau'-TabiînSika, Şii …","Sika, Şii …","Kaynak 1# Kitabü't-Tabakâti'l-kebîr, , 3575 8/518"
+"38","Hanzala b. Ebu Süfyan el-CümahiHanzala b. Esved b. Abdurrahman b. Safvan","-","151","Mekke","Etbau'-TabiînSika, Hücc…","Sika, Hücc…","Kaynak 1# Kitabü't-Tabakâti'l-kebîr, , 2449 8/45"
+"39","İkrime b. Halid el-Mahzumîİkrime b. Halid b. As b. Hişam b. Muğîra","-","-","Mekke","TabiînSika","Sika","Kaynak 1# Kitabü't-Tabakâti'l-kebîr, , 2381 8/30"
+"41","Amr b. Abbas el-BâhilîAmr b. Abbas","-","235","","-Sadukun","Sadukun","Kaynak 1#"
+"42","Ebu Said Abdurrahman b. Mehdî el-AnberîAbdurrahman b. Mehdi b. Hassân b. Abdurrahman","135","198","Basra","Etbau'-TabiînSika, sebt…","Sika, sebt…","Kaynak 1# Kitabü't-Tabakâti'l-kebîr, , 4173 9/310"
+"44","Ebu Osman Rabî'a er-ReyRabî'a b. Ferrûh","-","136","Medine","TabiînSika","Sika","Kaynak 1# Kitabü't-Tabakâti'l-kebîr, , 2045 7/548"
